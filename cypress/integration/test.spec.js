@@ -16,7 +16,7 @@ describe("Should open web site and take screenshots before and after generation 
     datetime = new Date().toISOString().replace(/:/g, ".");
   });
 
-  it("should visiti the website and take a screenshot", () => {
+  it("should visit the website and take a screenshot", () => {
     cy.visit('./VRT_colorPallete/palette.html');
     cy.screenshot(`${datetime}/image-1`)
   });
