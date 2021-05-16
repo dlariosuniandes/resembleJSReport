@@ -22,3 +22,5 @@ Nota:
 - Por ahora solo se puede comparar una fecha a la vez por lo que es necesario 
 borrar la carpeta con la fecha consultada de screenshots y repetir las pruebas de
 manera que solo quede una carpeta base y una de fecha.
+
+![GIF](https://media.giphy.com/media/KqqpnS2E5LFBE8w3YZ/giphy.gif)
